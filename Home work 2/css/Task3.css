@@ -1,0 +1,43 @@
+body {
+	height: 900px;
+}
+
+.Header {
+	width: 90%;
+	margin: 0 5% 0 5%;
+	height: 15%;
+	background-color: gray;
+	border-radius: 0 0 15px 15px;
+}
+
+.Body {
+	height: 70%;
+	width: 100%;
+}
+
+.Footer {
+	height: 15%;
+	width: 90%;
+	margin: 0 5% 0 5%;
+	background-color: gray;
+	border-radius: 15px 15px 0 0;
+}
+
+.Footer span {
+	margin: 5%;
+}
+
+#SideMenu {
+	width: 10%;
+	position: fixed;
+	left: 0;
+	height: 600px;
+	top 0;
+}
+
+#Midle {
+	width: 85%;
+	margin: 0 5% 0 10%;
+	height: 100%;
+	padding: 0 0 0 1rem;
+}
