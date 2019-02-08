@@ -1,0 +1,31 @@
+
+
+table {
+	margin: 0 0 0 0;
+	min-width: 100%; 
+	border-spacing: 1.5rem;
+}
+
+.HSeparator td{
+	height: 0.5rem;
+}
+
+.ornagePart td{
+	background-color: orange;
+	height: 8rem;
+}
+
+.yellowPart td{
+	background-color: yellow;
+	height: 24rem;
+}
+
+.bluePart td{
+	background-color: blue;
+	height: 16rem;
+}
+
+.grayPart td{
+	background-color: gray;
+	height: 12rem;
+}
