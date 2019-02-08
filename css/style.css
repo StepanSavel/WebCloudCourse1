@@ -1,0 +1,14 @@
+.main {
+	width: 100%;
+}
+.main img {
+	width: 800px;
+}
+
+.main div {
+	width: 800px;
+}
+
+.main ul {
+	list-style-type: circle;
+}
