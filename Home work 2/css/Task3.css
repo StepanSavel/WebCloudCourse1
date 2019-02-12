@@ -23,8 +23,9 @@ body {
 	border-radius: 15px 15px 0 0;
 }
 
-.Footer span {
-	margin: 5%;
+.Footer div {
+	margin: 1rem;
+	float: left;
 }
 
 #SideMenu {
@@ -33,6 +34,7 @@ body {
 	left: 0;
 	height: 600px;
 	top 0;
+	background-color: rgba(89, 89, 89, 0.5)
 }
 
 #Midle {

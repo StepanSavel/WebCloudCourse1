@@ -1,0 +1,65 @@
+body {
+	height: 900px;
+}
+
+.Header {
+	height: 10%;
+	width: 100%;
+	position: fixed;
+	background-color: rgba(102, 102, 255, 0.5);
+}
+
+.Header:hover {
+	background-color: rgba(0, 0, 230, 0.5);
+}
+
+.ImgWrap {
+	height: 100%;
+	width: 10%;
+	float: left;
+	position: relative;
+	display: inline-block;
+  	overflow: hidden;
+}
+
+#RightWarp {
+	margin: 0 0 0 80%;
+}
+
+.ImgWrap img {
+	display: block;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+#leftArrow {
+	transform: scaleX(-1);
+}
+
+.Middle {
+	position: absolute;
+	margin: 5% 0 0 0;
+	width: 100%;
+	height: 80%;
+}
+
+.column {
+	margin: 0 7.5% 50px 15%;
+	width: 22.5%;
+	float: left;
+	position: relative;
+}
+
+.Footer {
+	position: absolute;
+	margin: 100% 0 0 0;
+	height: 15%;
+	width: 100%;
+	background-color: rgba(102, 102, 255, 0.5);
+	padding: 20px 10px 20px 10px;
+}
+
+.Footer:hover {
+	background-color: rgba(102, 102, 255, 1);
+}
